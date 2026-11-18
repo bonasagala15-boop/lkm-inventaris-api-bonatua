@@ -87,3 +87,4 @@ class ProductRepository implements ProductRepositoryInterface
         return $stmt->rowCount() > 0;
     }
 }
+

@@ -69,3 +69,4 @@ class ProductController
         Response::json(null, 204);
     }
 }
+
