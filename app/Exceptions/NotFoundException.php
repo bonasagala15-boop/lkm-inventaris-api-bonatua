@@ -7,3 +7,4 @@ use RuntimeException;
 class NotFoundException extends RuntimeException
 {
 }
+

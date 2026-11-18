@@ -24,3 +24,4 @@ return function (
     $router->add('PUT', '/api/v1/categories/{id}', [$categories, 'update']);
     $router->add('DELETE', '/api/v1/categories/{id}', [$categories, 'destroy']);
 };
+

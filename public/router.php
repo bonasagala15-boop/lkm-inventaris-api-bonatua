@@ -18,3 +18,4 @@ if ($path !== '/' && is_dir($dir) && is_file($dir . '/index.html')) {
 }
 
 require __DIR__ . '/index.php';
+

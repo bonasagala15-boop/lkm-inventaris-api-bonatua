@@ -47,3 +47,4 @@ class Router
         Response::error('Endpoint tidak ditemukan', 404);
     }
 }
+
