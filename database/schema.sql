@@ -35,3 +35,4 @@ INSERT INTO products (category_id, name, price, stock) VALUES
 (1, 'Laptop Lenovo', 7500000, 10),
 (1, 'Mouse Logitech', 150000, 25),
 (2, 'Buku Catatan', 15000, 100);
+
