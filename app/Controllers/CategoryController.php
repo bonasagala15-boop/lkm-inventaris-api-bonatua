@@ -66,3 +66,4 @@ class CategoryController
         Response::json(null, 204);
     }
 }
+

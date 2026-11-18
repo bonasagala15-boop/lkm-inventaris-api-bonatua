@@ -78,3 +78,4 @@ class CategoryService
         return $name;
     }
 }
+

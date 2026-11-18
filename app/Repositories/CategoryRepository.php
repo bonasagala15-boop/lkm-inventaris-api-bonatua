@@ -70,3 +70,4 @@ class CategoryRepository implements CategoryRepositoryInterface
         return $stmt->rowCount() > 0;
     }
 }
+
